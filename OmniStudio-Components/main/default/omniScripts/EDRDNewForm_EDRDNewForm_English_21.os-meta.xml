@@ -2150,7 +2150,7 @@
     &quot;source&quot; : &quot;%searchOutput%&quot;
   } ]
 }</propertySetConfig>
-            <sequenceNumber>1.0</sequenceNumber>
+            <sequenceNumber>0.0</sequenceNumber>
             <type>Custom Lightning Web Component</type>
         </childElements>
         <childElements>
@@ -2175,7 +2175,7 @@
   &quot;label&quot; : &quot;PatientInformation&quot;,
   &quot;controlWidth&quot; : 12
 }</propertySetConfig>
-            <sequenceNumber>0.0</sequenceNumber>
+            <sequenceNumber>1.0</sequenceNumber>
             <type>Custom Lightning Web Component</type>
         </childElements>
         <isActive>true</isActive>
@@ -6042,5 +6042,5 @@
     <type>EDRDNewForm</type>
     <uniqueName>EDRDNewForm_EDRDNewForm_English_21</uniqueName>
     <versionNumber>21.0</versionNumber>
-    <webComponentKey>27cec59b-c569-0ac1-fda0-9e2a5b3073b4</webComponentKey>
+    <webComponentKey>1cc0a808-643d-f1c0-ec76-386e6574575d</webComponentKey>
 </OmniScript>
